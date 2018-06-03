@@ -1,3 +1,6 @@
+CREATE DATABASE DatabasePro;
+go
+
 USE [DatabasePro]
 GO
 /****** Object:  Table [dbo].[Historia_Rozgrywek]    Script Date: 02.06.2018 23:21:39 ******/
